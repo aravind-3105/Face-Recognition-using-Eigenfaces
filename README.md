@@ -25,7 +25,7 @@ All the data required are present in the repository, however if required they ca
 5. [comparison](https://github.com/aravind-3105/SMAI-Family-Project/blob/main/comparison.ipynb): Contains testing of eigenfaces by training on YaleB and testing for non-face images and mixiture of face,non-face images
 6. [LBPH](https://github.com/aravind-3105/SMAI-Family-Project/blob/main/LBPH.ipynb): Contains testing of alternate method used from reference directly purely for comparison purpose
 7. [InbuiltEigen](https://github.com/aravind-3105/SMAI-Family-Project/blob/main/Inbuilt_Eigenfaces.ipynb): Using an inbuilt function on yaleB dataset to check for accuracy comparison
-8. 
+
 # Dataset
 Two different datasets have been used to obtain the face images
 - the AT&T dataset: [Link](https://www.kaggle.com/kasikrit/att-database-of-faces)

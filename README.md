@@ -39,4 +39,5 @@ Two different datasets have been used to obtain the face images
 - the AT&T dataset: [Link](https://www.kaggle.com/kasikrit/att-database-of-faces)
 - the Yale B dataset: [Link](http://vision.ucsd.edu/~iskwak/ExtYaleDatabase/ExtYaleB.html)
 - No-Face dataset: A dataset of images without faces, sourced from pinterest. Uploaded in the Repository
+
 Preprocessing has been done on the Yale B dataset for more accurate results

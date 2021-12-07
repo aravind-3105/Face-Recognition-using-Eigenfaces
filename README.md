@@ -18,7 +18,7 @@ The primary goal of this project was to implement the method of Eigenfaces for f
 #  Repository Structure
 #### Folders:
 All the data required are present in the repository, however if required they can be downloaded links mentioned in the dataset section of README
-1. [dataset](https://github.com/aravind-3105/SMAI-Family-Project/tree/main/final_dataset"): Contains 4 folders i) at&t dataset ii)yaleB dataset iii)miscellaneous folder used for comparison iv) PinDown__faces-of-everyday-objects contains no-face images which gives appearance of face
+1. [dataset](https://github.com/aravind-3105/SMAI-Family-Project/tree/main/final_dataset): Contains 4 folders i) at&t dataset ii)yaleB dataset iii)miscellaneous folder used for comparison iv) PinDown__faces-of-everyday-objects contains no-face images which gives appearance of face
 2. [YaleB](https://github.com/aravind-3105/SMAI-Family-Project/blob/main/YaleB.ipynb): Contains entire implementation of eigenfaces on YaleB dataset along with test images classification
 3. [AT&T](https://github.com/aravind-3105/SMAI-Family-Project/blob/main/AT_T.ipynb): Contains entire implementation of eigenfaces on AT&T dataset along with test images classification
 4. [fischer](https://github.com/aravind-3105/SMAI-Family-Project/blob/main/fischerfaces.ipynb): Contains entire implementation of fischerfaces on YaleB dataset along with test images classification

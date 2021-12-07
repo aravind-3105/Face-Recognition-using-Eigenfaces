@@ -13,7 +13,7 @@
 
 #  Goal of the project:
 
-The primary goal of this project was to implement the method of Eigenfaces for face recognition by projecting the face images on the feature space (face space) which best represents the variations among distinct faces. We also implement Fischerfaces. This was done using Linear Discriminant Analysis. We have also compared the results of these two algorithms with another well-known method (LBH).  
+The primary goal of this project was to implement the method of Eigenfaces for face recognition by projecting the face images on the feature space (face space) which best represents the variations among distinct faces. We also implement Fischerfaces. This was done using Linear Discriminant Analysis. We have also compared the results of these two algorithms with another well-known method (LBPH).  
 
 #  Setting up the code:
 #### To view the step-by-step functioning of the segmenation:

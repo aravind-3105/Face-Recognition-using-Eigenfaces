@@ -1,6 +1,6 @@
-# SMAI-Family-Project
-
 # Face Recognition using Eigenfaces
+
+## TEAM NAME: FAMILY
 ##  TEAM MEMBERS:
 
 - Aravind Narayanan - 2019102014

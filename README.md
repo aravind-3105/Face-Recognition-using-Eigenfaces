@@ -36,4 +36,15 @@ Two different datasets have been used to obtain the face images
 NOTE: All of them are available in the github repository itself.<br>
 Preprocessing has been done on the Yale B dataset for more accurate results.
 
+# Visualisation of basic idea
+![Algo](https://github.com/aravind-3105/Face-Recognition-using-Eigenfaces/blob/main/resources/Eigenfaces_algorithm.jpg)
+
+# Outputs
+![Algo](https://github.com/aravind-3105/Face-Recognition-using-Eigenfaces/blob/main/resources/Eigenfaces_Output.jpg)
+![Algo](https://github.com/aravind-3105/Face-Recognition-using-Eigenfaces/blob/main/resources/Eigenfaces_nonFace.jpg)
+
+# Performance
+![Algo](https://github.com/aravind-3105/Face-Recognition-using-Eigenfaces/blob/main/resources/Eigenfaces_acc.jpg)
+
+
 #### NOTE: ALL CODES ARE IN JUPYTER NOTEBOOK AND DATASET AND IN THE REPOSITORY ITSELF
